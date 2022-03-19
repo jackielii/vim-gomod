@@ -1,7 +1,7 @@
 # vim-gomod
 The syntax highlight for go.mod, go.work etc. This is copy from vim-go
 
-https://github.com/jackielii/vim-go/blob/master/syntax/gomod.vim
+https://github.com/jackielii/vim-go/blob/main/syntax/gomod.vim
 
 ## Usage
 
