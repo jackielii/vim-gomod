@@ -1,4 +1,5 @@
 augroup filetypedetect
+  au! BufRead,BufNewFile *.go setfiletype go
   au! BufRead,BufNewFile *.mod,*.MOD
   au! BufRead,BufNewFile go.mod setfiletype gomod
   au! BufRead,BufNewFile *.s setfiletype asm
